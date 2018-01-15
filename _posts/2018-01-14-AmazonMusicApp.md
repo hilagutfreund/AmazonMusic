@@ -1,8 +1,6 @@
 ---
 published: true
-layout: post
 ---
-![amazon music logo]({{ site.baseurl }}/images/musiclogo.png)
 
 ## Overview
 A semester long graduate project for Engineering Psychology class (Psych 273) at San Jose State University. The objective was to conduct a heuristic evaluation on the Amazon Music app, noting design principle violations and proposing UX design recommendations for these violations.
@@ -28,4 +26,5 @@ An informal usability exercise was conducted with seven participants in order to
 Usability issues were presented on two levels: 
 1. Global Usability Problems: High-level design and usability principle violations
 2. Local Usability Problems: Usability issues on each screen of the application
+
 
