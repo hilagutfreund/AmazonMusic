@@ -1,7 +1,5 @@
 ---
-published: false
----
----
+published: true
 layout: post
 title: Amazon Music!
 ---
