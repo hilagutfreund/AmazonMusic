@@ -1,9 +1,8 @@
 ---
 published: true
 layout: post
-title: 
 ---
-![_amazon music logo]({{ site.baseurl }}/images/Amazon-Music.png)
+![amazon music logo]({{ site.baseurl }}/images/Amazon-Music.png)
 
 ## Overview
 A semester long graduate project for Engineering Psychology class (Psych 273) at San Jose State University. The objective was to conduct a heuristic evaluation on the Amazon Music app, noting design principle violations and proposing UX design recommendations for these violations.
