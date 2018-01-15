@@ -22,6 +22,7 @@ An informal usability exercise was conducted with seven participants in order to
 
 ## Evaluation
 ![usability problem]({{site.baseurl}}/images/usabilityEvaluation.png)
+{{site.baseurl}}/images/usabilityEvaluation.png
 
 Usability issues were presented on two levels: 
 1. Global Usability Problems: High-level design and usability principle violations
