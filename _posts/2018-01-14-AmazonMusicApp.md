@@ -8,14 +8,14 @@ A semester long graduate project for Engineering Psychology class (Psych 273) at
 ## Methods
 Two main inquiry methods were used to understand how users use the application: user reviews and informal usability exercise.
 
-### User Reviews
+#### User Reviews
 Reviews for the Amazon Music app were examined from different application stores, such as the App Store for iOS and the Google Play Store for Android devices, in addition to the Amazon Music Facebook page. 
 Some reviews include: 
 * _"Every bit is very convoluted and confusing"_
 * _"It has become difficult and unduly burdensome to use this app."_
 * _"Awful! Clunky and not intuitive. I expected way more from Amazon."_
 
-### Informal Usability Exercise
+#### Informal Usability Exercise
 ![usability exercise]({{ site.baseurl }}/images/usability_exercise.png)
 
 An informal usability exercise was conducted with seven participants in order to understand how first-time users interact with the application. The exercise was approximately five minutes long and invovled three tasks. 
