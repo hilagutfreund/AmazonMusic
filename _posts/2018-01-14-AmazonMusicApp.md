@@ -15,7 +15,7 @@ Some reviews include:
 * _"Awful! Clunky and not intuitive. I expected way more from Amazon."_
 
 ### Informal Usability Exercise
-![usability problem]({{site.baseurl}}/images/usabilityEvaluation.png)
+
 An informal usability exercise was conducted with seven participants in order to understand how first-time users interact with the application. The exercise was approximately five minutes long and invovled three tasks. 
 
 ## Evaluation
