@@ -25,6 +25,7 @@ An informal usability exercise was conducted with seven participants in order to
 !{{site.baseurl}}/images/usabilityEvaluation.png
 
 Amazon-Music.png
+
 ![_amazon music logo]({{ site.baseurl }}/images/Amazon-Music.png)
 
 Usability issues were presented on two levels: 
